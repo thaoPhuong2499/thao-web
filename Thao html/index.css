@@ -1,0 +1,26 @@
+h1 {
+    color: red;
+    text-align: center;
+  }
+
+  .drink{
+    font: italic small-caps bold 12px/30px Georgia, serif
+  }
+  
+  .infor {
+  border: 1px solid green;
+  width: 300px; 
+  height: 80px;
+  background-color: cornsilk;
+  border-radius: 5px;
+}
+
+.content {
+  border: 2px dashed rgb(54, 54, 121);
+  outline: 2px solid yellow;
+  outline-offset: 10px;
+  font-style: italic;
+  font-family:cursive;
+  font-weight: bold;
+  font-size: 5x;
+}
